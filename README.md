@@ -5,9 +5,14 @@ Welcome to the repository for my Master's thesis titled **[Thesis Title]**. This
 ## Table of Contents
 
 1. [Deployment of the reference applications](reference-applications/setup-documentation/custom-docs/)
+
     1.1.     
     1.2. [Setup of the gcloud environment on your local machine](reference-applications/setup-documentation/custom-docs/cloud-console-shortcuts)
-3. [Application - Performance Prediction](#background)
+2. 
+
+3. 
+    
+4. [Application - Performance Prediction](#background)
 
 
 ## 1. Introduction
