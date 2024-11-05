@@ -27,45 +27,18 @@ Welcome to the repository for my Master's thesis titled **[Thesis Title]**. This
 1.3.1.2. [Visual processing of the metrics with grafana](reference-applications/setup-documentation/custom-docs/system/monitoring/grafana/)
 
 1.3.1.3. [Prometheus Query Language Cheat Sheet](reference-applications/setup-documentation/custom-docs/system/monitoring/queries/)
-2. 
-
-3. 
     
-4. [Application - Performance Prediction](#background)
+2. [Application - Performance Prediction](#background)
 
+2.1 [Project Structure](performance-prediction/docs/structure/ProjectStructure.md)
 
-## 1. Introduction
+2.2 [Data Preparation & Preprocessing](performance-prediction/docs/data/)
 
-This section provides an overview of the research problem, objectives, and significance of the study. For detailed information, refer to the [Introduction README](path/to/introduction/README.md).
+2.2.1 [Preprocessing](performance-prediction/docs/data/preprocess.md)
 
-## 2. Background
+2.2.2 [Feature Selection](performance-prediction/docs/data/feature_selection.md)
 
-This section covers the theoretical background and literature review relevant to the research. For more details, please see the [Background README](path/to/background/README.md).
+2.2.3 [Introduction to the time series data](performance-prediction/docs/data/timeseries-introducer.md)
 
-## 3. Methodology
+2.3 [Machine Learning concepts used in the research-study](performance-prediction/docs/machine-learning/)
 
-Here, the research design, methods, and tools used in the study are outlined. Refer to the [Methodology README](path/to/methodology/README.md) for comprehensive insights.
-
-## 4. Results
-
-This section presents the findings of the research, including data analysis and interpretation. For a complete overview, check the [Results README](path/to/results/README.md).
-
-## 5. Discussion
-
-In this section, the implications of the results are discussed in relation to the research questions and existing literature. More details can be found in the [Discussion README](path/to/discussion/README.md).
-
-## 6. Conclusion
-
-The conclusion summarizes the key findings and suggests future research directions. For further information, refer to the [Conclusion README](path/to/conclusion/README.md).
-
-## 7. References
-
-This section lists all the sources cited throughout the thesis. For the complete reference list, please see the [References README](path/to/references/README.md).
-
-## 8. Appendices
-
-Additional materials, such as raw data, supplementary information, or code, are provided in this section. For more details, check the [Appendices README](path/to/appendices/README.md).
-
-## License
-
-This project is licensed under the [License Name](link/to/license).
