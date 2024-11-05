@@ -6,27 +6,27 @@ Welcome to the repository for my Master's thesis titled **[Thesis Title]**. This
 
 1. [Deployment of the reference applications](reference-applications/setup-documentation/custom-docs/)
 
-    1.1. [Setup of the gcloud environment on your local machine](reference-applications/setup-documentation/custom-docs/cloud-console-shortcuts)
+1.1. [Setup of the gcloud environment on your local machine](reference-applications/setup-documentation/custom-docs/cloud-console-shortcuts)
 
-    1.2. [Deployment Guide](reference-applications/setup-documentation/custom-docs/deployment)
+1.2. [Deployment Guide](reference-applications/setup-documentation/custom-docs/deployment)
 
-        1.2.1. [Local Build with Kubernetes in Docker](reference-applications/setup-documentation/custom-docs/deployment/local-build.md)
+1.2.1. [Local Build with Kubernetes in Docker](reference-applications/setup-documentation/custom-docs/deployment/local-build.md)
 
-        1.2.2. [Cloud Deployment on the GKE](reference-applications/setup-documentation/custom-docs/deployment/cloud-deployment.md)
+1.2.2. [Cloud Deployment on the GKE](reference-applications/setup-documentation/custom-docs/deployment/cloud-deployment.md)
 
-    1.3. [System Docs](reference-applications/setup-documentation/custom-docs/system/)
+1.3. [System Docs](reference-applications/setup-documentation/custom-docs/system/)
 
-        1.3.1. [Architecture of the reference applications](reference-applications/setup-documentation/custom-docs/system/architecture/)
+1.3.1. [Architecture of the reference applications](reference-applications/setup-documentation/custom-docs/system/architecture/)
 
-        1.3.2. [How to integrate a loadgenerator into the reference applications](reference-applications/setup-documentation/custom-docs/system/loadgenerator/)
+1.3.2. [How to integrate a loadgenerator into the reference applications](reference-applications/setup-documentation/custom-docs/system/loadgenerator/)
 
-        1.3.1. [How to integrate monitoring tools into the reference applications](reference-applications/setup-documentation/custom-docs/system/monitoring/)
+1.3.1. [How to integrate monitoring tools into the reference applications](reference-applications/setup-documentation/custom-docs/system/monitoring/)
 
-            1.3.1.1. [Retrieve System metrics with prometheus](reference-applications/setup-documentation/custom-docs/system/monitoring/prometheus/)
+1.3.1.1. [Retrieve System metrics with prometheus](reference-applications/setup-documentation/custom-docs/system/monitoring/prometheus/)
 
-            1.3.1.2. [Visual processing of the metrics with grafana](reference-applications/setup-documentation/custom-docs/system/monitoring/grafana/)
-            
-            1.3.1.3. [Prometheus Query Language Cheat Sheet](reference-applications/setup-documentation/custom-docs/system/monitoring/queries/)
+1.3.1.2. [Visual processing of the metrics with grafana](reference-applications/setup-documentation/custom-docs/system/monitoring/grafana/)
+
+1.3.1.3. [Prometheus Query Language Cheat Sheet](reference-applications/setup-documentation/custom-docs/system/monitoring/queries/)
 2. 
 
 3. 
