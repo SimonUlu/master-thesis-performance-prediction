@@ -1,0 +1,6 @@
+[submodule "reference-applications/boutique-store"]
+	path = reference-applications/boutique-store
+	url = https://github.com/SimonUlu/thesis-boutique-shop.git
+[submodule "reference-applications/tea-store"]
+	path = reference-applications/tea-store
+	url = https://github.com/SimonUlu/tea-store-thesis.git
