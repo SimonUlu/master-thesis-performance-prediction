@@ -6,8 +6,10 @@ Welcome to the repository for my Master's thesis titled **[Thesis Title]**. This
 
 1. [Deployment of the reference applications](reference-applications/setup-documentation/custom-docs/)
 
-    1.1.     
-    1.2. [Setup of the gcloud environment on your local machine](reference-applications/setup-documentation/custom-docs/cloud-console-shortcuts)
+    1.1. [Setup of the gcloud environment on your local machine](reference-applications/setup-documentation/custom-docs/cloud-console-shortcuts)
+    1.2. [Deployment Guide](reference-applications/setup-documentation/custom-docs/deployment)
+        1.2.1. [Local Build with Kubernetes in Docker](reference-applications/setup-documentation/custom-docs/deployment/local-build.md)
+        1.2.2. [Cloud Deployment on the GKE](reference-applications/setup-documentation/custom-docs/deployment/cloud-deployment.md)
 2. 
 
 3. 
