@@ -1,6 +1,6 @@
 # Master Thesis Repository
 
-Welcome to the repository for my Master's thesis titled **[Thesis Title]**. This repository serves as a central hub for all related projects and components developed during my research. Below is a brief overview of the main sections and their respective README files, which provide detailed information on each part of the project.
+Welcome to the repository for my Master's thesis titled **Towards Accurate Prediction of End-to-End Response Times in Cloud-Based Kubernetes Clusters with Multiple Services**. This repository serves as a central hub for all related projects and components developed during my research. Below is a brief overview of the main sections and their respective README files, which provide detailed information on each part of the project.
 
 ## Table of Contents
 
